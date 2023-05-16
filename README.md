@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yanis Bennadji</h1>
 <h3 align="center">A french frontend Developer</h3>
 
+Bienvenue sur mon GitHub ! / Welcome to my GitHub profile !
+
 - 🌱 I’m currently learning **JavaScript and React**
 
 - 💬 Ask me about **anything !**
@@ -9,7 +11,7 @@
 
 - 📄 Know about my experiences [https://yanis-bennadji.students-laplateforme.io/](https://yanis-bennadji.students-laplateforme.io/)
 
-- ⚡ Fun fact **I'm a huge video games ethusiast**
+- ⚡ Fun fact **I'm a huge video games enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
