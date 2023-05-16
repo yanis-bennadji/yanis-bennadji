@@ -3,6 +3,8 @@
 
 Bienvenue sur mon GitHub ! / Welcome to my GitHub profile !
 
+- 🔭 I’m currently working on **building my Portfolio !**
+
 - 🌱 I’m currently learning **JavaScript and React**
 
 - 💬 Ask me about **anything !**
